@@ -8,10 +8,10 @@ function navBar(){
     '<div class="collapse navbar-collapse" id="navbarCollapse">'+
         '<ul class="navbar-nav">'+
             '<li class="navbar-item">'+
-                '<button class="btn">Home</button>'+
+                '<button class="btn" id="homeButton">Home</button>'+
             '</li>'+
             '<li class="navbar-item">'+
-                '<button class="btn">Menu</button>'+
+                '<button class="btn" id="menuButton">Menu</button>'+
             '</li>'+
             '<li class="navbar-item">'+
                 '<button class="btn">Contact</button>'+
