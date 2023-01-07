@@ -15,15 +15,15 @@ function createHomePage(){
         '<div class="row align-items-start d-flex flex-column flex-lg-row flex-md-row flex-sm-column">'+
         '<div class="col-12 col-sm-12 col-md-4 col-lg-4">'+
             '<p>Taste our great coffees and shake of the stress of the day!</p>'+
-                '<img src="./images/coffee.jpg" class="img-thumbnail" alt="coffee" width="100%" height="10%">'+
+                '<img src="./images/coffee.jpg" class="img-thumbnail" alt="coffee" width="200%" height="10%">'+
                 '</div>'+
             '<div class="col-12 col-sm-12 col-md-4 col-lg-4">'+
             '<p>Give our desserts a try!</p>'+
-                '<img src="./images/dessert.jpg" class="img-thumbnail" alt="Pie" width="100%" height="10%">'+
+                '<img src="./images/dessert.jpg" class="img-thumbnail" alt="Pie" width="200%" height="10%">'+
                 '</div>'+
             '<div class="col-12 col-sm-12 col-md-4 col-lg-4">'+
             '<p>You hungry, we cook.You eat, We happy!</p>'+
-                '<img src="./images/eating.jpg" class="img-thumbnail" alt="People Eating" width="100%" height="10%">'+
+                '<img src="./images/eating.jpg" class="img-thumbnail" alt="People Eating" width="200%" height="10%">'+
                 '</div>'+
             '</div>'+
     '</div>';
