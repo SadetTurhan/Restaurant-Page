@@ -4,7 +4,7 @@ function createMenuPage(){
     homePageRendered.innerHTML ='<div class="container">'+
     '<div class="row align-items-start">'+
         '<div class="card col-12 col-sm-12 col-md-12 col-lg-6 card w-50 h-50 d-inline-block" style="width: 1rem;">'+
-        '<img class="card-img-top h-50 d-inline-block" src="/home/sadet/repos/Restaurant-Page/src/lasagna.jpg" alt="Card image cap">'+
+        '<img class="card-img-top h-50 d-inline-block" src="./images/lasagna.jpg" alt="Card image cap">'+
           '<div class="card-body">'+
           '<h5 class="card-title">Lasagna</h5>'+
             '<p class="card-text">Homemade Lasagna.</p>'+
@@ -15,7 +15,7 @@ function createMenuPage(){
             '</ul>'+
           '</div>'+
           '<div class="card col-12 col-sm-12 col-md-12 col-lg-6 w-50 h-50 d-inline-block" style="width: 1rem;">'+
-        '<img class="card-img-top" src="/home/sadet/repos/Restaurant-Page/src/omelette.jpg" alt="Card image cap">'+
+        '<img class="card-img-top" src="./images/omelette.jpg" alt="Card image cap">'+
       '<div class="card-body">'+
       '<h5 class="card-title">Omelette Du Fromage</h5>'+
           '<p class="card-text">Give the french omelette a try.</p>'+
@@ -26,7 +26,7 @@ function createMenuPage(){
       '</div>'+
     '</div>'+
   '<div class="card col-12 col-sm-12 col-md-12 col-lg-6 card w-50 h-50 d-inline-block" style="width: 1rem;">'+
-      '<img class="card-img-top" src="/home/sadet/repos/Restaurant-Page/src/kebap.jpg" alt="Card image cap">'+
+      '<img class="card-img-top" src="./images/kebap.jpg" alt="Card image cap">'+
         '<div class="card-body">'+
         '<h5 class="card-title">Kebap</h5>'+
           '<p class="card-text">Traditional Kebap.</p>'+
@@ -37,7 +37,7 @@ function createMenuPage(){
           '</ul>'+
         '</div>'+
         '<div class="card col-12 col-sm-12 col-md-12 col-lg-6 w-50 h-50 d-inline-block" style="width: 1rem;">'+
-        '<img class="card-img-top h-25" src="/home/sadet/repos/Restaurant-Page/src/burger.jpg" alt="Card image cap">'+
+        '<img class="card-img-top h-25" src="./images/burger.jpg" alt="Card image cap">'+
           '<div class="card-body">'+
           '<h5 class="card-title">Burger</h5>'+
               '<p class="card-text">A burger a day(Or maybe a bit less).</p>'+
