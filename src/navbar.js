@@ -14,7 +14,7 @@ function navBar(){
                 '<button class="btn" id="menuButton">Menu</button>'+
             '</li>'+
             '<li class="navbar-item">'+
-                '<button class="btn">Contact</button>'+
+                '<button class="btn" id="contactButton">Contact</button>'+
             '</li>'+
         '</ul>'+
     '</div>'+
